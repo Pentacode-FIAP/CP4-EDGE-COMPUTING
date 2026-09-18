@@ -101,9 +101,7 @@ Body para **desligar** a lâmpada:
 
 ```
 smart-lamp-esp32/
-├── img/
-│   └── circuito-wokwi.png    # Circuito montado no Wokwi
-├── sketch.ino                # Código do ESP32
+├── sketch.ino    # Código do ESP32
 └── README.md
 ```
 
