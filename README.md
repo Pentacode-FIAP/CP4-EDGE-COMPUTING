@@ -8,8 +8,6 @@ Projeto desenvolvido pelo grupo **PentaCode** (turma **1ESPH**) para o **CP4 de 
 
 🔗 **Simulação no Wokwi:** https://wokwi.com/projects/475177956635328513
 
-![Circuito da Smart Lamp no Wokwi](img/circuito-wokwi.png)
-
 ---
 
 ## 📋 Funcionalidades
